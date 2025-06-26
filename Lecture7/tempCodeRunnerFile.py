@@ -1,0 +1,5 @@
+f =open("","r")
+# data=f.read()
+# print(data)
+# print(type(data))
+# print(type(f))
